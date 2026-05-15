@@ -2,14 +2,15 @@
 
 **AI-powered recruiting operations intelligence dashboard**
 
-![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://talent-pulse.streamlit.app)
 
 ---
 
 ## Demo
 
-_Live demo: TBD (Streamlit Cloud deployment pending)_
+**Live app: [talent-pulse.streamlit.app](https://talent-pulse.streamlit.app)**
 
 ---
 

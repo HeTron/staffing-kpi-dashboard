@@ -174,10 +174,9 @@ If you add a new metric or chart, add tests for the math, not the rendering.
 
 ## Known issues / pending
 
-- **Live demo URL** — README says "TBD". Deploy to Streamlit Cloud (Market Edge precedent: `<project>.streamlit.app`). Set `ANTHROPIC_API_KEY` as a Streamlit Cloud secret.
-- **Screenshots** — README has no images yet. Once deployed, capture Overview + AI Insights pages and add to a `docs/screenshots/` folder.
+- **Live demo deployed**: https://talent-pulse.streamlit.app — `ANTHROPIC_API_KEY` set as Streamlit Cloud secret. Auto-deploys from `main` on push.
+- **Screenshots** — README has no images yet. Capture Overview + AI Insights pages and add to a `docs/screenshots/` folder.
 - **`.venv` shebang stale** — venv was created when project lived under `~/PycharmProjects/`. `python -m pip` works fine; rebuilding the venv (`rm -rf .venv && python3.11 -m venv .venv && pip install -r requirements.txt`) cleans this permanently. Low priority — only matters if someone calls `pip` directly.
-- **No GitHub repo yet** — README links to `github.com/HeTron/staffing-kpi-dashboard` but the repo isn't pushed. Create + push when ready to deploy.
 
 ---
 
