@@ -1,0 +1,865 @@
+Department,Month,Source,Applicants,Hires
+Customer Success,2024-07,LinkedIn,73,3
+Customer Success,2024-07,Referral,38,5
+Customer Success,2024-07,Career Site,46,2
+Customer Success,2024-07,Indeed,28,1
+Customer Success,2024-07,Recruiter Outreach,25,2
+Customer Success,2024-07,Glassdoor,20,0
+Customer Success,2024-08,LinkedIn,99,4
+Customer Success,2024-08,Referral,72,13
+Customer Success,2024-08,Career Site,65,2
+Customer Success,2024-08,Indeed,51,2
+Customer Success,2024-08,Recruiter Outreach,36,3
+Customer Success,2024-08,Glassdoor,17,0
+Customer Success,2024-09,LinkedIn,51,3
+Customer Success,2024-09,Referral,33,4
+Customer Success,2024-09,Career Site,34,1
+Customer Success,2024-09,Indeed,22,1
+Customer Success,2024-09,Recruiter Outreach,27,3
+Customer Success,2024-09,Glassdoor,9,0
+Customer Success,2024-10,LinkedIn,80,3
+Customer Success,2024-10,Referral,69,8
+Customer Success,2024-10,Career Site,27,1
+Customer Success,2024-10,Indeed,34,1
+Customer Success,2024-10,Recruiter Outreach,21,1
+Customer Success,2024-10,Glassdoor,18,1
+Customer Success,2024-11,LinkedIn,100,3
+Customer Success,2024-11,Referral,54,9
+Customer Success,2024-11,Career Site,59,2
+Customer Success,2024-11,Indeed,50,1
+Customer Success,2024-11,Recruiter Outreach,18,1
+Customer Success,2024-11,Glassdoor,27,1
+Customer Success,2024-12,LinkedIn,96,3
+Customer Success,2024-12,Referral,94,11
+Customer Success,2024-12,Career Site,73,4
+Customer Success,2024-12,Indeed,47,1
+Customer Success,2024-12,Recruiter Outreach,50,4
+Customer Success,2024-12,Glassdoor,24,1
+Customer Success,2025-01,LinkedIn,80,3
+Customer Success,2025-01,Referral,64,11
+Customer Success,2025-01,Career Site,59,4
+Customer Success,2025-01,Indeed,47,1
+Customer Success,2025-01,Recruiter Outreach,45,4
+Customer Success,2025-01,Glassdoor,24,1
+Customer Success,2025-02,LinkedIn,90,3
+Customer Success,2025-02,Referral,62,10
+Customer Success,2025-02,Career Site,53,3
+Customer Success,2025-02,Indeed,34,1
+Customer Success,2025-02,Recruiter Outreach,28,2
+Customer Success,2025-02,Glassdoor,29,1
+Customer Success,2025-03,LinkedIn,73,3
+Customer Success,2025-03,Referral,54,8
+Customer Success,2025-03,Career Site,56,2
+Customer Success,2025-03,Indeed,40,1
+Customer Success,2025-03,Recruiter Outreach,18,2
+Customer Success,2025-03,Glassdoor,20,1
+Customer Success,2025-04,LinkedIn,90,4
+Customer Success,2025-04,Referral,61,8
+Customer Success,2025-04,Career Site,63,3
+Customer Success,2025-04,Indeed,47,2
+Customer Success,2025-04,Recruiter Outreach,41,3
+Customer Success,2025-04,Glassdoor,19,1
+Customer Success,2025-05,LinkedIn,107,4
+Customer Success,2025-05,Referral,63,6
+Customer Success,2025-05,Career Site,75,3
+Customer Success,2025-05,Indeed,50,1
+Customer Success,2025-05,Recruiter Outreach,39,3
+Customer Success,2025-05,Glassdoor,25,1
+Customer Success,2025-06,LinkedIn,70,2
+Customer Success,2025-06,Referral,37,4
+Customer Success,2025-06,Career Site,49,2
+Customer Success,2025-06,Indeed,30,1
+Customer Success,2025-06,Recruiter Outreach,28,2
+Customer Success,2025-06,Glassdoor,16,0
+Customer Success,2025-07,LinkedIn,73,4
+Customer Success,2025-07,Referral,68,7
+Customer Success,2025-07,Career Site,58,3
+Customer Success,2025-07,Indeed,68,2
+Customer Success,2025-07,Recruiter Outreach,55,5
+Customer Success,2025-07,Glassdoor,23,1
+Customer Success,2025-08,LinkedIn,68,2
+Customer Success,2025-08,Referral,40,6
+Customer Success,2025-08,Career Site,44,2
+Customer Success,2025-08,Indeed,33,1
+Customer Success,2025-08,Recruiter Outreach,9,1
+Customer Success,2025-08,Glassdoor,11,0
+Customer Success,2025-09,LinkedIn,60,2
+Customer Success,2025-09,Referral,30,3
+Customer Success,2025-09,Career Site,42,2
+Customer Success,2025-09,Indeed,49,2
+Customer Success,2025-09,Recruiter Outreach,23,2
+Customer Success,2025-09,Glassdoor,18,0
+Customer Success,2025-10,LinkedIn,99,3
+Customer Success,2025-10,Referral,62,7
+Customer Success,2025-10,Career Site,65,3
+Customer Success,2025-10,Indeed,51,2
+Customer Success,2025-10,Recruiter Outreach,36,3
+Customer Success,2025-10,Glassdoor,14,0
+Customer Success,2025-11,LinkedIn,112,3
+Customer Success,2025-11,Referral,80,9
+Customer Success,2025-11,Career Site,73,3
+Customer Success,2025-11,Indeed,61,2
+Customer Success,2025-11,Recruiter Outreach,39,3
+Customer Success,2025-11,Glassdoor,25,1
+Customer Success,2025-12,LinkedIn,73,2
+Customer Success,2025-12,Referral,65,8
+Customer Success,2025-12,Career Site,49,3
+Customer Success,2025-12,Indeed,58,1
+Customer Success,2025-12,Recruiter Outreach,26,2
+Customer Success,2025-12,Glassdoor,18,1
+Design,2024-07,LinkedIn,129,4
+Design,2024-07,Referral,79,9
+Design,2024-07,Career Site,58,3
+Design,2024-07,Indeed,38,1
+Design,2024-07,Recruiter Outreach,29,2
+Design,2024-07,Glassdoor,20,0
+Design,2024-08,LinkedIn,114,5
+Design,2024-08,Referral,49,5
+Design,2024-08,Career Site,66,4
+Design,2024-08,Indeed,45,2
+Design,2024-08,Recruiter Outreach,41,3
+Design,2024-08,Glassdoor,15,0
+Design,2024-09,LinkedIn,69,2
+Design,2024-09,Referral,49,6
+Design,2024-09,Career Site,42,2
+Design,2024-09,Indeed,46,1
+Design,2024-09,Recruiter Outreach,26,3
+Design,2024-09,Glassdoor,8,0
+Design,2024-10,LinkedIn,84,3
+Design,2024-10,Referral,48,7
+Design,2024-10,Career Site,47,3
+Design,2024-10,Indeed,28,1
+Design,2024-10,Recruiter Outreach,22,2
+Design,2024-10,Glassdoor,17,1
+Design,2024-11,LinkedIn,107,4
+Design,2024-11,Referral,60,11
+Design,2024-11,Career Site,64,3
+Design,2024-11,Indeed,66,2
+Design,2024-11,Recruiter Outreach,35,4
+Design,2024-11,Glassdoor,24,1
+Design,2024-12,LinkedIn,94,3
+Design,2024-12,Referral,75,11
+Design,2024-12,Career Site,58,2
+Design,2024-12,Indeed,51,2
+Design,2024-12,Recruiter Outreach,48,3
+Design,2024-12,Glassdoor,28,1
+Design,2025-01,LinkedIn,119,5
+Design,2025-01,Referral,90,13
+Design,2025-01,Career Site,60,4
+Design,2025-01,Indeed,53,1
+Design,2025-01,Recruiter Outreach,58,3
+Design,2025-01,Glassdoor,30,1
+Design,2025-02,LinkedIn,76,4
+Design,2025-02,Referral,40,7
+Design,2025-02,Career Site,49,3
+Design,2025-02,Indeed,46,1
+Design,2025-02,Recruiter Outreach,24,2
+Design,2025-02,Glassdoor,26,1
+Design,2025-03,LinkedIn,94,4
+Design,2025-03,Referral,56,5
+Design,2025-03,Career Site,51,3
+Design,2025-03,Indeed,44,1
+Design,2025-03,Recruiter Outreach,29,2
+Design,2025-03,Glassdoor,17,1
+Design,2025-04,LinkedIn,58,3
+Design,2025-04,Referral,48,8
+Design,2025-04,Career Site,47,3
+Design,2025-04,Indeed,39,1
+Design,2025-04,Recruiter Outreach,10,1
+Design,2025-04,Glassdoor,15,1
+Design,2025-05,LinkedIn,90,3
+Design,2025-05,Referral,64,11
+Design,2025-05,Career Site,40,2
+Design,2025-05,Indeed,42,2
+Design,2025-05,Recruiter Outreach,40,3
+Design,2025-05,Glassdoor,18,0
+Design,2025-06,LinkedIn,70,2
+Design,2025-06,Referral,49,7
+Design,2025-06,Career Site,54,2
+Design,2025-06,Indeed,40,1
+Design,2025-06,Recruiter Outreach,44,4
+Design,2025-06,Glassdoor,22,1
+Design,2025-07,LinkedIn,96,3
+Design,2025-07,Referral,76,8
+Design,2025-07,Career Site,78,5
+Design,2025-07,Indeed,63,2
+Design,2025-07,Recruiter Outreach,32,3
+Design,2025-07,Glassdoor,30,1
+Design,2025-08,LinkedIn,82,3
+Design,2025-08,Referral,59,9
+Design,2025-08,Career Site,45,2
+Design,2025-08,Indeed,41,1
+Design,2025-08,Recruiter Outreach,23,2
+Design,2025-08,Glassdoor,29,1
+Design,2025-09,LinkedIn,67,2
+Design,2025-09,Referral,47,8
+Design,2025-09,Career Site,51,3
+Design,2025-09,Indeed,47,1
+Design,2025-09,Recruiter Outreach,35,2
+Design,2025-09,Glassdoor,27,1
+Design,2025-10,LinkedIn,74,3
+Design,2025-10,Referral,39,7
+Design,2025-10,Career Site,39,1
+Design,2025-10,Indeed,22,1
+Design,2025-10,Recruiter Outreach,27,3
+Design,2025-10,Glassdoor,11,0
+Design,2025-11,LinkedIn,87,3
+Design,2025-11,Referral,62,6
+Design,2025-11,Career Site,62,4
+Design,2025-11,Indeed,35,1
+Design,2025-11,Recruiter Outreach,41,3
+Design,2025-11,Glassdoor,29,1
+Design,2025-12,LinkedIn,98,4
+Design,2025-12,Referral,66,11
+Design,2025-12,Career Site,72,3
+Design,2025-12,Indeed,66,2
+Design,2025-12,Recruiter Outreach,47,4
+Design,2025-12,Glassdoor,16,0
+Engineering,2024-07,LinkedIn,131,7
+Engineering,2024-07,Referral,88,11
+Engineering,2024-07,Career Site,82,5
+Engineering,2024-07,Indeed,59,2
+Engineering,2024-07,Recruiter Outreach,55,4
+Engineering,2024-07,Glassdoor,37,1
+Engineering,2024-08,LinkedIn,115,6
+Engineering,2024-08,Referral,75,9
+Engineering,2024-08,Career Site,64,2
+Engineering,2024-08,Indeed,36,1
+Engineering,2024-08,Recruiter Outreach,41,2
+Engineering,2024-08,Glassdoor,16,1
+Engineering,2024-09,LinkedIn,91,5
+Engineering,2024-09,Referral,55,10
+Engineering,2024-09,Career Site,44,2
+Engineering,2024-09,Indeed,54,1
+Engineering,2024-09,Recruiter Outreach,29,3
+Engineering,2024-09,Glassdoor,20,0
+Engineering,2024-10,LinkedIn,68,3
+Engineering,2024-10,Referral,38,7
+Engineering,2024-10,Career Site,36,2
+Engineering,2024-10,Indeed,23,1
+Engineering,2024-10,Recruiter Outreach,23,1
+Engineering,2024-10,Glassdoor,18,1
+Engineering,2024-11,LinkedIn,71,3
+Engineering,2024-11,Referral,46,7
+Engineering,2024-11,Career Site,45,2
+Engineering,2024-11,Indeed,41,1
+Engineering,2024-11,Recruiter Outreach,30,2
+Engineering,2024-11,Glassdoor,25,1
+Engineering,2024-12,LinkedIn,103,4
+Engineering,2024-12,Referral,82,12
+Engineering,2024-12,Career Site,68,3
+Engineering,2024-12,Indeed,50,2
+Engineering,2024-12,Recruiter Outreach,37,3
+Engineering,2024-12,Glassdoor,22,1
+Engineering,2025-01,LinkedIn,91,5
+Engineering,2025-01,Referral,62,8
+Engineering,2025-01,Career Site,43,2
+Engineering,2025-01,Indeed,54,2
+Engineering,2025-01,Recruiter Outreach,39,2
+Engineering,2025-01,Glassdoor,25,1
+Engineering,2025-02,LinkedIn,91,4
+Engineering,2025-02,Referral,73,9
+Engineering,2025-02,Career Site,61,3
+Engineering,2025-02,Indeed,39,1
+Engineering,2025-02,Recruiter Outreach,42,4
+Engineering,2025-02,Glassdoor,19,1
+Engineering,2025-03,LinkedIn,108,3
+Engineering,2025-03,Referral,77,13
+Engineering,2025-03,Career Site,45,2
+Engineering,2025-03,Indeed,53,2
+Engineering,2025-03,Recruiter Outreach,39,3
+Engineering,2025-03,Glassdoor,30,1
+Engineering,2025-04,LinkedIn,81,3
+Engineering,2025-04,Referral,50,7
+Engineering,2025-04,Career Site,43,3
+Engineering,2025-04,Indeed,46,2
+Engineering,2025-04,Recruiter Outreach,27,2
+Engineering,2025-04,Glassdoor,19,0
+Engineering,2025-05,LinkedIn,95,5
+Engineering,2025-05,Referral,78,9
+Engineering,2025-05,Career Site,64,3
+Engineering,2025-05,Indeed,43,1
+Engineering,2025-05,Recruiter Outreach,42,3
+Engineering,2025-05,Glassdoor,19,0
+Engineering,2025-06,LinkedIn,104,3
+Engineering,2025-06,Referral,93,13
+Engineering,2025-06,Career Site,77,3
+Engineering,2025-06,Indeed,63,2
+Engineering,2025-06,Recruiter Outreach,38,3
+Engineering,2025-06,Glassdoor,35,1
+Engineering,2025-07,LinkedIn,68,2
+Engineering,2025-07,Referral,48,5
+Engineering,2025-07,Career Site,42,2
+Engineering,2025-07,Indeed,23,1
+Engineering,2025-07,Recruiter Outreach,27,3
+Engineering,2025-07,Glassdoor,16,1
+Engineering,2025-08,LinkedIn,85,3
+Engineering,2025-08,Referral,57,7
+Engineering,2025-08,Career Site,52,2
+Engineering,2025-08,Indeed,41,1
+Engineering,2025-08,Recruiter Outreach,36,3
+Engineering,2025-08,Glassdoor,20,1
+Engineering,2025-09,LinkedIn,109,5
+Engineering,2025-09,Referral,56,6
+Engineering,2025-09,Career Site,44,2
+Engineering,2025-09,Indeed,48,2
+Engineering,2025-09,Recruiter Outreach,29,2
+Engineering,2025-09,Glassdoor,17,0
+Engineering,2025-10,LinkedIn,74,2
+Engineering,2025-10,Referral,49,6
+Engineering,2025-10,Career Site,42,2
+Engineering,2025-10,Indeed,29,1
+Engineering,2025-10,Recruiter Outreach,20,2
+Engineering,2025-10,Glassdoor,20,1
+Engineering,2025-11,LinkedIn,81,3
+Engineering,2025-11,Referral,48,8
+Engineering,2025-11,Career Site,56,3
+Engineering,2025-11,Indeed,31,1
+Engineering,2025-11,Recruiter Outreach,38,3
+Engineering,2025-11,Glassdoor,31,1
+Engineering,2025-12,LinkedIn,115,4
+Engineering,2025-12,Referral,59,8
+Engineering,2025-12,Career Site,64,3
+Engineering,2025-12,Indeed,56,2
+Engineering,2025-12,Recruiter Outreach,40,3
+Engineering,2025-12,Glassdoor,28,1
+Finance,2024-07,LinkedIn,125,5
+Finance,2024-07,Referral,76,14
+Finance,2024-07,Career Site,63,4
+Finance,2024-07,Indeed,40,2
+Finance,2024-07,Recruiter Outreach,39,3
+Finance,2024-07,Glassdoor,22,1
+Finance,2024-08,LinkedIn,129,6
+Finance,2024-08,Referral,95,14
+Finance,2024-08,Career Site,101,6
+Finance,2024-08,Indeed,69,2
+Finance,2024-08,Recruiter Outreach,60,5
+Finance,2024-08,Glassdoor,31,1
+Finance,2024-09,LinkedIn,102,4
+Finance,2024-09,Referral,55,6
+Finance,2024-09,Career Site,50,3
+Finance,2024-09,Indeed,45,1
+Finance,2024-09,Recruiter Outreach,41,4
+Finance,2024-09,Glassdoor,13,0
+Finance,2024-10,LinkedIn,53,2
+Finance,2024-10,Referral,35,5
+Finance,2024-10,Career Site,35,2
+Finance,2024-10,Indeed,25,1
+Finance,2024-10,Recruiter Outreach,17,1
+Finance,2024-10,Glassdoor,22,1
+Finance,2024-11,LinkedIn,132,6
+Finance,2024-11,Referral,73,10
+Finance,2024-11,Career Site,87,4
+Finance,2024-11,Indeed,41,1
+Finance,2024-11,Recruiter Outreach,37,3
+Finance,2024-11,Glassdoor,31,1
+Finance,2024-12,LinkedIn,45,2
+Finance,2024-12,Referral,24,3
+Finance,2024-12,Career Site,29,2
+Finance,2024-12,Indeed,29,1
+Finance,2024-12,Recruiter Outreach,9,1
+Finance,2024-12,Glassdoor,3,0
+Finance,2025-01,LinkedIn,109,5
+Finance,2025-01,Referral,67,9
+Finance,2025-01,Career Site,48,3
+Finance,2025-01,Indeed,36,1
+Finance,2025-01,Recruiter Outreach,24,2
+Finance,2025-01,Glassdoor,29,1
+Finance,2025-02,LinkedIn,105,5
+Finance,2025-02,Referral,68,7
+Finance,2025-02,Career Site,55,2
+Finance,2025-02,Indeed,70,2
+Finance,2025-02,Recruiter Outreach,26,2
+Finance,2025-02,Glassdoor,20,1
+Finance,2025-03,LinkedIn,125,5
+Finance,2025-03,Referral,84,13
+Finance,2025-03,Career Site,75,3
+Finance,2025-03,Indeed,44,1
+Finance,2025-03,Recruiter Outreach,47,4
+Finance,2025-03,Glassdoor,55,2
+Finance,2025-04,LinkedIn,93,3
+Finance,2025-04,Referral,44,6
+Finance,2025-04,Career Site,48,2
+Finance,2025-04,Indeed,46,1
+Finance,2025-04,Recruiter Outreach,23,2
+Finance,2025-04,Glassdoor,23,1
+Finance,2025-05,LinkedIn,104,4
+Finance,2025-05,Referral,80,12
+Finance,2025-05,Career Site,63,4
+Finance,2025-05,Indeed,54,1
+Finance,2025-05,Recruiter Outreach,37,4
+Finance,2025-05,Glassdoor,16,0
+Finance,2025-06,LinkedIn,121,3
+Finance,2025-06,Referral,56,7
+Finance,2025-06,Career Site,72,4
+Finance,2025-06,Indeed,45,2
+Finance,2025-06,Recruiter Outreach,35,3
+Finance,2025-06,Glassdoor,23,1
+Finance,2025-07,LinkedIn,113,5
+Finance,2025-07,Referral,92,14
+Finance,2025-07,Career Site,70,4
+Finance,2025-07,Indeed,41,1
+Finance,2025-07,Recruiter Outreach,35,2
+Finance,2025-07,Glassdoor,29,1
+Finance,2025-08,LinkedIn,64,3
+Finance,2025-08,Referral,43,7
+Finance,2025-08,Career Site,40,2
+Finance,2025-08,Indeed,23,1
+Finance,2025-08,Recruiter Outreach,27,2
+Finance,2025-08,Glassdoor,23,1
+Finance,2025-09,LinkedIn,78,3
+Finance,2025-09,Referral,57,6
+Finance,2025-09,Career Site,56,3
+Finance,2025-09,Indeed,31,1
+Finance,2025-09,Recruiter Outreach,36,3
+Finance,2025-09,Glassdoor,25,1
+Finance,2025-10,LinkedIn,127,5
+Finance,2025-10,Referral,70,10
+Finance,2025-10,Career Site,65,2
+Finance,2025-10,Indeed,58,2
+Finance,2025-10,Recruiter Outreach,39,4
+Finance,2025-10,Glassdoor,25,1
+Finance,2025-11,LinkedIn,70,2
+Finance,2025-11,Referral,47,8
+Finance,2025-11,Career Site,48,3
+Finance,2025-11,Indeed,42,1
+Finance,2025-11,Recruiter Outreach,24,1
+Finance,2025-11,Glassdoor,17,1
+Finance,2025-12,LinkedIn,66,3
+Finance,2025-12,Referral,34,4
+Finance,2025-12,Career Site,33,2
+Finance,2025-12,Indeed,33,1
+Finance,2025-12,Recruiter Outreach,19,2
+Finance,2025-12,Glassdoor,10,0
+Marketing,2024-07,LinkedIn,91,3
+Marketing,2024-07,Referral,68,10
+Marketing,2024-07,Career Site,48,3
+Marketing,2024-07,Indeed,53,2
+Marketing,2024-07,Recruiter Outreach,32,3
+Marketing,2024-07,Glassdoor,22,1
+Marketing,2024-08,LinkedIn,106,5
+Marketing,2024-08,Referral,88,13
+Marketing,2024-08,Career Site,65,4
+Marketing,2024-08,Indeed,40,1
+Marketing,2024-08,Recruiter Outreach,48,4
+Marketing,2024-08,Glassdoor,28,1
+Marketing,2024-09,LinkedIn,111,4
+Marketing,2024-09,Referral,71,13
+Marketing,2024-09,Career Site,71,4
+Marketing,2024-09,Indeed,48,1
+Marketing,2024-09,Recruiter Outreach,52,4
+Marketing,2024-09,Glassdoor,19,1
+Marketing,2024-10,LinkedIn,40,2
+Marketing,2024-10,Referral,32,4
+Marketing,2024-10,Career Site,28,2
+Marketing,2024-10,Indeed,14,0
+Marketing,2024-10,Recruiter Outreach,16,2
+Marketing,2024-10,Glassdoor,7,0
+Marketing,2024-11,LinkedIn,110,5
+Marketing,2024-11,Referral,64,9
+Marketing,2024-11,Career Site,88,4
+Marketing,2024-11,Indeed,45,2
+Marketing,2024-11,Recruiter Outreach,33,3
+Marketing,2024-11,Glassdoor,21,1
+Marketing,2024-12,LinkedIn,69,3
+Marketing,2024-12,Referral,45,7
+Marketing,2024-12,Career Site,37,2
+Marketing,2024-12,Indeed,23,1
+Marketing,2024-12,Recruiter Outreach,24,2
+Marketing,2024-12,Glassdoor,12,0
+Marketing,2025-01,LinkedIn,60,2
+Marketing,2025-01,Referral,49,9
+Marketing,2025-01,Career Site,47,2
+Marketing,2025-01,Indeed,38,1
+Marketing,2025-01,Recruiter Outreach,27,3
+Marketing,2025-01,Glassdoor,17,1
+Marketing,2025-02,LinkedIn,61,2
+Marketing,2025-02,Referral,32,4
+Marketing,2025-02,Career Site,27,1
+Marketing,2025-02,Indeed,26,1
+Marketing,2025-02,Recruiter Outreach,13,1
+Marketing,2025-02,Glassdoor,12,0
+Marketing,2025-03,LinkedIn,39,1
+Marketing,2025-03,Referral,26,3
+Marketing,2025-03,Career Site,23,1
+Marketing,2025-03,Indeed,19,0
+Marketing,2025-03,Recruiter Outreach,16,1
+Marketing,2025-03,Glassdoor,10,0
+Marketing,2025-04,LinkedIn,109,5
+Marketing,2025-04,Referral,66,11
+Marketing,2025-04,Career Site,55,3
+Marketing,2025-04,Indeed,45,1
+Marketing,2025-04,Recruiter Outreach,41,2
+Marketing,2025-04,Glassdoor,27,1
+Marketing,2025-05,LinkedIn,99,4
+Marketing,2025-05,Referral,73,10
+Marketing,2025-05,Career Site,50,2
+Marketing,2025-05,Indeed,43,1
+Marketing,2025-05,Recruiter Outreach,27,2
+Marketing,2025-05,Glassdoor,21,1
+Marketing,2025-06,LinkedIn,73,3
+Marketing,2025-06,Referral,37,5
+Marketing,2025-06,Career Site,29,1
+Marketing,2025-06,Indeed,25,1
+Marketing,2025-06,Recruiter Outreach,29,2
+Marketing,2025-06,Glassdoor,14,0
+Marketing,2025-07,LinkedIn,87,3
+Marketing,2025-07,Referral,57,8
+Marketing,2025-07,Career Site,55,3
+Marketing,2025-07,Indeed,39,1
+Marketing,2025-07,Recruiter Outreach,29,2
+Marketing,2025-07,Glassdoor,24,1
+Marketing,2025-08,LinkedIn,90,4
+Marketing,2025-08,Referral,52,7
+Marketing,2025-08,Career Site,58,2
+Marketing,2025-08,Indeed,33,1
+Marketing,2025-08,Recruiter Outreach,28,3
+Marketing,2025-08,Glassdoor,13,0
+Marketing,2025-09,LinkedIn,120,5
+Marketing,2025-09,Referral,62,11
+Marketing,2025-09,Career Site,56,3
+Marketing,2025-09,Indeed,52,1
+Marketing,2025-09,Recruiter Outreach,39,2
+Marketing,2025-09,Glassdoor,28,1
+Marketing,2025-10,LinkedIn,119,6
+Marketing,2025-10,Referral,78,11
+Marketing,2025-10,Career Site,70,4
+Marketing,2025-10,Indeed,49,2
+Marketing,2025-10,Recruiter Outreach,50,5
+Marketing,2025-10,Glassdoor,31,1
+Marketing,2025-11,LinkedIn,89,3
+Marketing,2025-11,Referral,62,6
+Marketing,2025-11,Career Site,62,3
+Marketing,2025-11,Indeed,39,1
+Marketing,2025-11,Recruiter Outreach,44,3
+Marketing,2025-11,Glassdoor,16,1
+Marketing,2025-12,LinkedIn,87,3
+Marketing,2025-12,Referral,50,7
+Marketing,2025-12,Career Site,43,2
+Marketing,2025-12,Indeed,29,1
+Marketing,2025-12,Recruiter Outreach,28,2
+Marketing,2025-12,Glassdoor,19,1
+People Ops,2024-07,LinkedIn,107,5
+People Ops,2024-07,Referral,73,10
+People Ops,2024-07,Career Site,55,3
+People Ops,2024-07,Indeed,54,2
+People Ops,2024-07,Recruiter Outreach,37,4
+People Ops,2024-07,Glassdoor,19,1
+People Ops,2024-08,LinkedIn,92,3
+People Ops,2024-08,Referral,69,9
+People Ops,2024-08,Career Site,62,3
+People Ops,2024-08,Indeed,42,1
+People Ops,2024-08,Recruiter Outreach,54,6
+People Ops,2024-08,Glassdoor,20,1
+People Ops,2024-09,LinkedIn,80,4
+People Ops,2024-09,Referral,55,8
+People Ops,2024-09,Career Site,57,3
+People Ops,2024-09,Indeed,39,1
+People Ops,2024-09,Recruiter Outreach,35,2
+People Ops,2024-09,Glassdoor,18,1
+People Ops,2024-10,LinkedIn,82,3
+People Ops,2024-10,Referral,46,8
+People Ops,2024-10,Career Site,40,2
+People Ops,2024-10,Indeed,27,1
+People Ops,2024-10,Recruiter Outreach,29,2
+People Ops,2024-10,Glassdoor,20,1
+People Ops,2024-11,LinkedIn,118,5
+People Ops,2024-11,Referral,75,13
+People Ops,2024-11,Career Site,58,2
+People Ops,2024-11,Indeed,60,2
+People Ops,2024-11,Recruiter Outreach,31,3
+People Ops,2024-11,Glassdoor,23,1
+People Ops,2024-12,LinkedIn,68,3
+People Ops,2024-12,Referral,67,7
+People Ops,2024-12,Career Site,57,2
+People Ops,2024-12,Indeed,36,1
+People Ops,2024-12,Recruiter Outreach,24,2
+People Ops,2024-12,Glassdoor,22,1
+People Ops,2025-01,LinkedIn,90,3
+People Ops,2025-01,Referral,56,8
+People Ops,2025-01,Career Site,56,3
+People Ops,2025-01,Indeed,45,1
+People Ops,2025-01,Recruiter Outreach,45,5
+People Ops,2025-01,Glassdoor,15,1
+People Ops,2025-02,LinkedIn,92,4
+People Ops,2025-02,Referral,75,11
+People Ops,2025-02,Career Site,60,3
+People Ops,2025-02,Indeed,49,1
+People Ops,2025-02,Recruiter Outreach,29,3
+People Ops,2025-02,Glassdoor,23,1
+People Ops,2025-03,LinkedIn,128,4
+People Ops,2025-03,Referral,97,10
+People Ops,2025-03,Career Site,73,5
+People Ops,2025-03,Indeed,66,1
+People Ops,2025-03,Recruiter Outreach,50,3
+People Ops,2025-03,Glassdoor,26,1
+People Ops,2025-04,LinkedIn,72,2
+People Ops,2025-04,Referral,59,6
+People Ops,2025-04,Career Site,47,2
+People Ops,2025-04,Indeed,35,1
+People Ops,2025-04,Recruiter Outreach,32,3
+People Ops,2025-04,Glassdoor,18,1
+People Ops,2025-05,LinkedIn,103,5
+People Ops,2025-05,Referral,64,9
+People Ops,2025-05,Career Site,66,2
+People Ops,2025-05,Indeed,40,1
+People Ops,2025-05,Recruiter Outreach,39,4
+People Ops,2025-05,Glassdoor,15,1
+People Ops,2025-06,LinkedIn,62,3
+People Ops,2025-06,Referral,44,5
+People Ops,2025-06,Career Site,29,2
+People Ops,2025-06,Indeed,40,1
+People Ops,2025-06,Recruiter Outreach,22,1
+People Ops,2025-06,Glassdoor,21,0
+People Ops,2025-07,LinkedIn,68,2
+People Ops,2025-07,Referral,43,5
+People Ops,2025-07,Career Site,27,1
+People Ops,2025-07,Indeed,41,1
+People Ops,2025-07,Recruiter Outreach,15,1
+People Ops,2025-07,Glassdoor,8,0
+People Ops,2025-08,LinkedIn,75,3
+People Ops,2025-08,Referral,58,9
+People Ops,2025-08,Career Site,51,3
+People Ops,2025-08,Indeed,44,2
+People Ops,2025-08,Recruiter Outreach,28,2
+People Ops,2025-08,Glassdoor,14,0
+People Ops,2025-09,LinkedIn,87,4
+People Ops,2025-09,Referral,81,14
+People Ops,2025-09,Career Site,70,3
+People Ops,2025-09,Indeed,42,1
+People Ops,2025-09,Recruiter Outreach,24,2
+People Ops,2025-09,Glassdoor,30,1
+People Ops,2025-10,LinkedIn,93,4
+People Ops,2025-10,Referral,71,7
+People Ops,2025-10,Career Site,55,2
+People Ops,2025-10,Indeed,58,2
+People Ops,2025-10,Recruiter Outreach,42,4
+People Ops,2025-10,Glassdoor,23,1
+People Ops,2025-11,LinkedIn,99,4
+People Ops,2025-11,Referral,68,8
+People Ops,2025-11,Career Site,65,3
+People Ops,2025-11,Indeed,48,2
+People Ops,2025-11,Recruiter Outreach,37,3
+People Ops,2025-11,Glassdoor,26,1
+People Ops,2025-12,LinkedIn,128,5
+People Ops,2025-12,Referral,86,12
+People Ops,2025-12,Career Site,89,5
+People Ops,2025-12,Indeed,70,2
+People Ops,2025-12,Recruiter Outreach,25,2
+People Ops,2025-12,Glassdoor,40,1
+Product,2024-07,LinkedIn,126,5
+Product,2024-07,Referral,87,14
+Product,2024-07,Career Site,74,3
+Product,2024-07,Indeed,36,1
+Product,2024-07,Recruiter Outreach,40,3
+Product,2024-07,Glassdoor,17,0
+Product,2024-08,LinkedIn,84,4
+Product,2024-08,Referral,47,5
+Product,2024-08,Career Site,41,2
+Product,2024-08,Indeed,35,1
+Product,2024-08,Recruiter Outreach,33,3
+Product,2024-08,Glassdoor,15,1
+Product,2024-09,LinkedIn,53,2
+Product,2024-09,Referral,54,10
+Product,2024-09,Career Site,50,2
+Product,2024-09,Indeed,41,1
+Product,2024-09,Recruiter Outreach,31,2
+Product,2024-09,Glassdoor,28,1
+Product,2024-10,LinkedIn,116,4
+Product,2024-10,Referral,66,8
+Product,2024-10,Career Site,82,4
+Product,2024-10,Indeed,61,2
+Product,2024-10,Recruiter Outreach,38,3
+Product,2024-10,Glassdoor,22,1
+Product,2024-11,LinkedIn,108,5
+Product,2024-11,Referral,62,9
+Product,2024-11,Career Site,74,3
+Product,2024-11,Indeed,56,2
+Product,2024-11,Recruiter Outreach,25,2
+Product,2024-11,Glassdoor,22,1
+Product,2024-12,LinkedIn,147,5
+Product,2024-12,Referral,80,12
+Product,2024-12,Career Site,61,2
+Product,2024-12,Indeed,66,2
+Product,2024-12,Recruiter Outreach,42,4
+Product,2024-12,Glassdoor,28,1
+Product,2025-01,LinkedIn,70,3
+Product,2025-01,Referral,57,8
+Product,2025-01,Career Site,41,1
+Product,2025-01,Indeed,27,1
+Product,2025-01,Recruiter Outreach,19,2
+Product,2025-01,Glassdoor,16,1
+Product,2025-02,LinkedIn,94,4
+Product,2025-02,Referral,72,11
+Product,2025-02,Career Site,70,3
+Product,2025-02,Indeed,66,2
+Product,2025-02,Recruiter Outreach,38,4
+Product,2025-02,Glassdoor,41,1
+Product,2025-03,LinkedIn,102,3
+Product,2025-03,Referral,68,11
+Product,2025-03,Career Site,57,2
+Product,2025-03,Indeed,48,1
+Product,2025-03,Recruiter Outreach,37,3
+Product,2025-03,Glassdoor,18,1
+Product,2025-04,LinkedIn,130,6
+Product,2025-04,Referral,57,6
+Product,2025-04,Career Site,68,4
+Product,2025-04,Indeed,60,2
+Product,2025-04,Recruiter Outreach,41,2
+Product,2025-04,Glassdoor,27,1
+Product,2025-05,LinkedIn,114,4
+Product,2025-05,Referral,56,6
+Product,2025-05,Career Site,65,2
+Product,2025-05,Indeed,52,1
+Product,2025-05,Recruiter Outreach,40,4
+Product,2025-05,Glassdoor,25,1
+Product,2025-06,LinkedIn,133,4
+Product,2025-06,Referral,104,16
+Product,2025-06,Career Site,96,6
+Product,2025-06,Indeed,63,2
+Product,2025-06,Recruiter Outreach,52,5
+Product,2025-06,Glassdoor,37,1
+Product,2025-07,LinkedIn,91,4
+Product,2025-07,Referral,48,8
+Product,2025-07,Career Site,57,3
+Product,2025-07,Indeed,57,2
+Product,2025-07,Recruiter Outreach,26,2
+Product,2025-07,Glassdoor,17,1
+Product,2025-08,LinkedIn,61,2
+Product,2025-08,Referral,45,5
+Product,2025-08,Career Site,31,1
+Product,2025-08,Indeed,19,1
+Product,2025-08,Recruiter Outreach,25,2
+Product,2025-08,Glassdoor,18,1
+Product,2025-09,LinkedIn,103,5
+Product,2025-09,Referral,73,12
+Product,2025-09,Career Site,62,3
+Product,2025-09,Indeed,46,2
+Product,2025-09,Recruiter Outreach,31,3
+Product,2025-09,Glassdoor,32,1
+Product,2025-10,LinkedIn,119,5
+Product,2025-10,Referral,93,15
+Product,2025-10,Career Site,74,3
+Product,2025-10,Indeed,47,1
+Product,2025-10,Recruiter Outreach,47,3
+Product,2025-10,Glassdoor,32,1
+Product,2025-11,LinkedIn,122,4
+Product,2025-11,Referral,94,16
+Product,2025-11,Career Site,77,4
+Product,2025-11,Indeed,55,2
+Product,2025-11,Recruiter Outreach,44,3
+Product,2025-11,Glassdoor,24,1
+Product,2025-12,LinkedIn,108,5
+Product,2025-12,Referral,71,8
+Product,2025-12,Career Site,60,2
+Product,2025-12,Indeed,42,1
+Product,2025-12,Recruiter Outreach,46,3
+Product,2025-12,Glassdoor,32,1
+Sales,2024-07,LinkedIn,78,4
+Sales,2024-07,Referral,45,7
+Sales,2024-07,Career Site,45,2
+Sales,2024-07,Indeed,36,1
+Sales,2024-07,Recruiter Outreach,32,2
+Sales,2024-07,Glassdoor,18,1
+Sales,2024-08,LinkedIn,78,3
+Sales,2024-08,Referral,67,11
+Sales,2024-08,Career Site,60,3
+Sales,2024-08,Indeed,32,1
+Sales,2024-08,Recruiter Outreach,40,3
+Sales,2024-08,Glassdoor,14,0
+Sales,2024-09,LinkedIn,62,3
+Sales,2024-09,Referral,60,10
+Sales,2024-09,Career Site,50,3
+Sales,2024-09,Indeed,36,1
+Sales,2024-09,Recruiter Outreach,28,2
+Sales,2024-09,Glassdoor,22,1
+Sales,2024-10,LinkedIn,88,3
+Sales,2024-10,Referral,67,7
+Sales,2024-10,Career Site,48,2
+Sales,2024-10,Indeed,37,1
+Sales,2024-10,Recruiter Outreach,29,2
+Sales,2024-10,Glassdoor,23,1
+Sales,2024-11,LinkedIn,83,2
+Sales,2024-11,Referral,63,8
+Sales,2024-11,Career Site,61,4
+Sales,2024-11,Indeed,45,1
+Sales,2024-11,Recruiter Outreach,38,2
+Sales,2024-11,Glassdoor,19,1
+Sales,2024-12,LinkedIn,70,3
+Sales,2024-12,Referral,36,6
+Sales,2024-12,Career Site,30,2
+Sales,2024-12,Indeed,28,1
+Sales,2024-12,Recruiter Outreach,18,1
+Sales,2024-12,Glassdoor,18,1
+Sales,2025-01,LinkedIn,120,6
+Sales,2025-01,Referral,55,9
+Sales,2025-01,Career Site,61,4
+Sales,2025-01,Indeed,57,1
+Sales,2025-01,Recruiter Outreach,39,3
+Sales,2025-01,Glassdoor,32,1
+Sales,2025-02,LinkedIn,61,3
+Sales,2025-02,Referral,32,6
+Sales,2025-02,Career Site,31,2
+Sales,2025-02,Indeed,22,1
+Sales,2025-02,Recruiter Outreach,21,1
+Sales,2025-02,Glassdoor,13,0
+Sales,2025-03,LinkedIn,96,3
+Sales,2025-03,Referral,80,8
+Sales,2025-03,Career Site,51,3
+Sales,2025-03,Indeed,48,1
+Sales,2025-03,Recruiter Outreach,32,2
+Sales,2025-03,Glassdoor,19,1
+Sales,2025-04,LinkedIn,99,3
+Sales,2025-04,Referral,48,6
+Sales,2025-04,Career Site,43,2
+Sales,2025-04,Indeed,42,2
+Sales,2025-04,Recruiter Outreach,33,2
+Sales,2025-04,Glassdoor,28,1
+Sales,2025-05,LinkedIn,95,4
+Sales,2025-05,Referral,60,10
+Sales,2025-05,Career Site,71,3
+Sales,2025-05,Indeed,36,1
+Sales,2025-05,Recruiter Outreach,33,2
+Sales,2025-05,Glassdoor,20,1
+Sales,2025-06,LinkedIn,138,6
+Sales,2025-06,Referral,98,14
+Sales,2025-06,Career Site,87,4
+Sales,2025-06,Indeed,68,2
+Sales,2025-06,Recruiter Outreach,44,4
+Sales,2025-06,Glassdoor,35,1
+Sales,2025-07,LinkedIn,92,4
+Sales,2025-07,Referral,56,6
+Sales,2025-07,Career Site,54,3
+Sales,2025-07,Indeed,38,1
+Sales,2025-07,Recruiter Outreach,34,2
+Sales,2025-07,Glassdoor,23,1
+Sales,2025-08,LinkedIn,102,3
+Sales,2025-08,Referral,71,11
+Sales,2025-08,Career Site,60,3
+Sales,2025-08,Indeed,48,2
+Sales,2025-08,Recruiter Outreach,31,2
+Sales,2025-08,Glassdoor,19,0
+Sales,2025-09,LinkedIn,137,5
+Sales,2025-09,Referral,92,15
+Sales,2025-09,Career Site,51,2
+Sales,2025-09,Indeed,59,2
+Sales,2025-09,Recruiter Outreach,35,2
+Sales,2025-09,Glassdoor,26,1
+Sales,2025-10,LinkedIn,92,4
+Sales,2025-10,Referral,49,6
+Sales,2025-10,Career Site,63,4
+Sales,2025-10,Indeed,38,1
+Sales,2025-10,Recruiter Outreach,26,2
+Sales,2025-10,Glassdoor,10,0
+Sales,2025-11,LinkedIn,92,3
+Sales,2025-11,Referral,51,5
+Sales,2025-11,Career Site,64,4
+Sales,2025-11,Indeed,34,1
+Sales,2025-11,Recruiter Outreach,32,3
+Sales,2025-11,Glassdoor,28,1
+Sales,2025-12,LinkedIn,93,4
+Sales,2025-12,Referral,104,18
+Sales,2025-12,Career Site,73,3
+Sales,2025-12,Indeed,42,1
+Sales,2025-12,Recruiter Outreach,38,2
+Sales,2025-12,Glassdoor,24,1

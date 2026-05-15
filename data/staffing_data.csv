@@ -1,0 +1,433 @@
+Department,Role,Month,Recruiter,Openings,Applicants,Interviews,Offers,Hires,Avg Time to Fill (days),Cost per Hire ($),Offer Acceptance Rate
+Engineering,Engineering Senior Backend,2024-07,Marcus Reid,1,145,55,22,1,34.3,13151,0.05
+Engineering,Engineering Senior Backend,2024-08,Marcus Reid,5,136,39,11,4,53.7,13503,0.36
+Engineering,Engineering Senior Backend,2024-09,Marcus Reid,3,153,59,13,3,38.0,9937,0.23
+Engineering,Engineering Senior Backend,2024-10,Marcus Reid,4,50,18,8,5,49.9,13307,0.62
+Engineering,Engineering Senior Backend,2024-11,Marcus Reid,3,97,26,5,3,49.1,10876,0.6
+Engineering,Engineering Senior Backend,2024-12,Marcus Reid,2,166,65,13,1,42.9,10593,0.08
+Engineering,Engineering Senior Backend,2025-01,Marcus Reid,4,129,49,20,4,39.9,11046,0.2
+Engineering,Engineering Senior Backend,2025-02,Marcus Reid,5,156,52,18,3,39.1,10712,0.17
+Engineering,Engineering Senior Backend,2025-03,Marcus Reid,5,147,66,24,5,42.9,8260,0.21
+Engineering,Engineering Senior Backend,2025-04,Marcus Reid,1,63,28,8,1,50.6,8801,0.12
+Engineering,Engineering Senior Backend,2025-05,Marcus Reid,4,111,46,11,2,45.5,9936,0.18
+Engineering,Engineering Senior Backend,2025-06,Marcus Reid,3,179,57,10,2,42.3,13974,0.2
+Engineering,Engineering Senior Backend,2025-07,Marcus Reid,1,111,54,19,1,50.0,10340,0.05
+Engineering,Engineering Senior Backend,2025-08,Marcus Reid,1,41,19,5,1,46.0,8630,0.2
+Engineering,Engineering Senior Backend,2025-09,Marcus Reid,3,133,51,13,2,44.2,14718,0.15
+Engineering,Engineering Senior Backend,2025-10,Marcus Reid,1,78,42,18,1,42.9,8826,0.06
+Engineering,Engineering Senior Backend,2025-11,Marcus Reid,2,146,68,19,2,36.2,8893,0.11
+Engineering,Engineering Senior Backend,2025-12,Marcus Reid,3,134,46,15,2,52.3,9416,0.13
+Engineering,Engineering Senior Frontend,2024-07,Devon Park,3,137,52,18,3,45.9,13303,0.17
+Engineering,Engineering Senior Frontend,2024-08,Devon Park,3,147,59,15,2,34.7,8291,0.13
+Engineering,Engineering Senior Frontend,2024-09,Devon Park,5,51,27,9,4,46.4,9060,0.44
+Engineering,Engineering Senior Frontend,2024-10,Devon Park,6,90,44,8,5,45.6,11376,0.62
+Engineering,Engineering Senior Frontend,2024-11,Devon Park,1,114,45,10,1,44.2,9992,0.1
+Engineering,Engineering Senior Frontend,2024-12,Devon Park,1,81,42,8,1,36.2,13784,0.12
+Engineering,Engineering Senior Frontend,2025-01,Devon Park,1,68,30,11,1,36.2,14827,0.09
+Engineering,Engineering Senior Frontend,2025-02,Devon Park,2,61,25,7,2,49.4,8261,0.29
+Engineering,Engineering Senior Frontend,2025-03,Devon Park,2,173,58,18,2,54.6,11732,0.11
+Engineering,Engineering Senior Frontend,2025-04,Devon Park,1,71,39,16,1,52.6,11046,0.06
+Engineering,Engineering Senior Frontend,2025-05,Devon Park,1,105,36,14,1,43.3,13157,0.07
+Engineering,Engineering Senior Frontend,2025-06,Devon Park,5,84,45,10,3,51.3,9837,0.3
+Engineering,Engineering Senior Frontend,2025-07,Devon Park,5,52,22,9,4,42.5,10243,0.44
+Engineering,Engineering Senior Frontend,2025-08,Devon Park,6,102,30,5,4,38.9,11505,0.8
+Engineering,Engineering Senior Frontend,2025-09,Devon Park,6,44,18,6,6,38.3,8175,1.0
+Engineering,Engineering Senior Frontend,2025-10,Devon Park,5,38,11,2,2,42.3,13173,1.0
+Engineering,Engineering Senior Frontend,2025-11,Devon Park,1,101,45,20,1,53.0,12179,0.05
+Engineering,Engineering Senior Frontend,2025-12,Devon Park,4,48,14,3,3,58.1,12438,1.0
+Engineering,Engineering Staff SRE,2024-07,Aisha Patel,2,170,84,24,2,37.8,10015,0.08
+Engineering,Engineering Staff SRE,2024-08,Aisha Patel,5,64,20,6,5,56.8,13578,0.83
+Engineering,Engineering Staff SRE,2024-09,Aisha Patel,2,89,32,9,2,49.4,11717,0.22
+Engineering,Engineering Staff SRE,2024-10,Aisha Patel,2,66,31,12,1,35.6,9656,0.08
+Engineering,Engineering Staff SRE,2024-11,Aisha Patel,3,47,23,6,2,54.3,9091,0.33
+Engineering,Engineering Staff SRE,2024-12,Aisha Patel,2,115,33,5,1,37.4,9075,0.2
+Engineering,Engineering Staff SRE,2025-01,Aisha Patel,3,117,53,14,2,45.1,13549,0.14
+Engineering,Engineering Staff SRE,2025-02,Aisha Patel,6,108,33,7,4,47.2,8304,0.57
+Engineering,Engineering Staff SRE,2025-03,Aisha Patel,2,32,12,4,1,52.2,10829,0.25
+Engineering,Engineering Staff SRE,2025-04,Aisha Patel,6,132,66,28,7,51.6,8693,0.25
+Engineering,Engineering Staff SRE,2025-05,Aisha Patel,4,125,60,11,4,48.2,13836,0.36
+Engineering,Engineering Staff SRE,2025-06,Aisha Patel,3,147,65,15,2,45.2,10696,0.13
+Engineering,Engineering Staff SRE,2025-07,Aisha Patel,4,61,22,6,3,40.5,9648,0.5
+Engineering,Engineering Staff SRE,2025-08,Aisha Patel,2,148,78,23,2,49.2,14642,0.09
+Engineering,Engineering Staff SRE,2025-09,Aisha Patel,3,126,62,19,3,42.7,8246,0.16
+Engineering,Engineering Staff SRE,2025-10,Aisha Patel,2,118,60,11,2,40.5,12864,0.18
+Engineering,Engineering Staff SRE,2025-11,Aisha Patel,4,38,20,4,4,54.0,11116,1.0
+Engineering,Engineering Staff SRE,2025-12,Aisha Patel,5,180,96,22,5,37.5,13566,0.23
+Product,Product Senior PM,2024-07,Aisha Patel,1,113,48,14,1,44.6,8589,0.07
+Product,Product Senior PM,2024-08,Aisha Patel,3,61,32,6,2,32.3,8998,0.33
+Product,Product Senior PM,2024-09,Aisha Patel,5,90,43,15,4,46.6,9173,0.27
+Product,Product Senior PM,2024-10,Aisha Patel,2,149,51,10,1,44.7,7821,0.1
+Product,Product Senior PM,2024-11,Aisha Patel,5,84,39,12,6,45.7,6699,0.5
+Product,Product Senior PM,2024-12,Aisha Patel,3,126,59,26,2,44.9,10934,0.08
+Product,Product Senior PM,2025-01,Aisha Patel,1,44,19,7,1,35.0,8156,0.14
+Product,Product Senior PM,2025-02,Aisha Patel,2,176,67,16,2,41.2,8293,0.12
+Product,Product Senior PM,2025-03,Aisha Patel,3,180,92,22,3,32.2,9117,0.14
+Product,Product Senior PM,2025-04,Aisha Patel,1,131,34,8,1,45.6,10486,0.12
+Product,Product Senior PM,2025-05,Aisha Patel,1,167,75,12,1,26.9,10901,0.08
+Product,Product Senior PM,2025-06,Aisha Patel,5,175,88,15,5,47.1,7193,0.33
+Product,Product Senior PM,2025-07,Aisha Patel,6,133,67,11,4,32.1,8699,0.36
+Product,Product Senior PM,2025-08,Aisha Patel,5,110,56,11,5,32.8,9150,0.45
+Product,Product Senior PM,2025-09,Aisha Patel,1,135,73,24,1,42.0,7095,0.04
+Product,Product Senior PM,2025-10,Aisha Patel,6,96,29,5,4,46.3,9548,0.8
+Product,Product Senior PM,2025-11,Aisha Patel,4,147,65,21,3,46.3,8092,0.14
+Product,Product Senior PM,2025-12,Aisha Patel,4,108,48,21,3,39.8,9499,0.14
+Product,Product Associate PM,2024-07,Aisha Patel,6,98,28,5,5,33.8,9928,1.0
+Product,Product Associate PM,2024-08,Aisha Patel,4,87,32,9,3,38.4,9173,0.33
+Product,Product Associate PM,2024-09,Aisha Patel,6,30,11,3,3,41.0,8949,1.0
+Product,Product Associate PM,2024-10,Aisha Patel,5,110,49,12,5,37.6,9240,0.42
+Product,Product Associate PM,2024-11,Aisha Patel,4,122,44,13,4,47.1,10251,0.31
+Product,Product Associate PM,2024-12,Aisha Patel,4,139,68,17,4,40.1,8601,0.24
+Product,Product Associate PM,2025-01,Aisha Patel,1,36,18,3,1,35.4,9654,0.33
+Product,Product Associate PM,2025-02,Aisha Patel,2,35,9,4,2,38.5,9714,0.5
+Product,Product Associate PM,2025-03,Aisha Patel,2,118,34,9,2,48.8,8122,0.22
+Product,Product Associate PM,2025-04,Aisha Patel,2,145,67,18,2,31.8,9439,0.11
+Product,Product Associate PM,2025-05,Aisha Patel,5,106,32,6,6,45.9,7002,1.0
+Product,Product Associate PM,2025-06,Aisha Patel,6,150,44,13,5,31.7,10952,0.38
+Product,Product Associate PM,2025-07,Aisha Patel,1,92,36,7,1,47.2,9161,0.14
+Product,Product Associate PM,2025-08,Aisha Patel,2,55,22,7,2,28.1,7460,0.29
+Product,Product Associate PM,2025-09,Aisha Patel,6,156,69,24,6,44.1,9625,0.25
+Product,Product Associate PM,2025-10,Aisha Patel,3,141,50,20,3,47.9,8698,0.15
+Product,Product Associate PM,2025-11,Aisha Patel,3,103,54,18,3,34.4,6109,0.17
+Product,Product Associate PM,2025-12,Aisha Patel,3,180,79,16,2,33.1,10587,0.12
+Product,Product Principal PM,2024-07,Sofia Ruiz,4,169,65,16,4,30.7,6851,0.25
+Product,Product Principal PM,2024-08,Sofia Ruiz,5,107,58,19,4,44.4,9169,0.21
+Product,Product Principal PM,2024-09,Sofia Ruiz,4,137,74,28,4,36.0,10046,0.14
+Product,Product Principal PM,2024-10,Sofia Ruiz,3,126,56,25,4,38.8,8766,0.16
+Product,Product Principal PM,2024-11,Sofia Ruiz,6,141,50,9,4,43.0,10375,0.44
+Product,Product Principal PM,2024-12,Sofia Ruiz,6,159,86,24,6,30.3,8325,0.25
+Product,Product Principal PM,2025-01,Sofia Ruiz,4,150,79,31,2,37.8,7845,0.06
+Product,Product Principal PM,2025-02,Sofia Ruiz,1,170,79,30,1,44.7,9377,0.03
+Product,Product Principal PM,2025-03,Sofia Ruiz,3,32,10,3,3,30.6,7315,1.0
+Product,Product Principal PM,2025-04,Sofia Ruiz,5,107,40,17,5,29.5,6148,0.29
+Product,Product Principal PM,2025-05,Sofia Ruiz,4,79,40,10,4,36.6,8748,0.4
+Product,Product Principal PM,2025-06,Sofia Ruiz,6,160,44,11,6,48.6,6938,0.55
+Product,Product Principal PM,2025-07,Sofia Ruiz,4,71,26,5,4,45.4,9674,0.8
+Product,Product Principal PM,2025-08,Sofia Ruiz,4,34,18,5,3,34.4,7962,0.6
+Product,Product Principal PM,2025-09,Sofia Ruiz,3,56,14,4,3,35.5,10437,0.75
+Product,Product Principal PM,2025-10,Sofia Ruiz,6,175,72,17,7,31.0,9760,0.41
+Product,Product Principal PM,2025-11,Sofia Ruiz,6,166,68,25,6,40.3,10273,0.24
+Product,Product Principal PM,2025-12,Sofia Ruiz,2,71,21,9,2,40.9,7612,0.22
+Design,Design Senior IC,2024-07,Aisha Patel,4,147,56,16,5,38.6,6881,0.31
+Design,Design Senior IC,2024-08,Aisha Patel,2,51,14,5,2,36.2,7249,0.4
+Design,Design Senior IC,2024-09,Aisha Patel,1,30,16,3,1,30.3,8939,0.33
+Design,Design Senior IC,2024-10,Aisha Patel,3,66,23,4,2,36.6,7064,0.5
+Design,Design Senior IC,2024-11,Aisha Patel,6,133,42,10,5,35.1,6160,0.5
+Design,Design Senior IC,2024-12,Aisha Patel,1,89,22,7,1,35.0,8451,0.14
+Design,Design Senior IC,2025-01,Aisha Patel,4,146,73,17,3,29.1,8453,0.18
+Design,Design Senior IC,2025-02,Aisha Patel,5,77,27,12,3,36.7,5913,0.25
+Design,Design Senior IC,2025-03,Aisha Patel,2,48,13,2,2,29.7,8267,1.0
+Design,Design Senior IC,2025-04,Aisha Patel,1,48,21,5,1,34.3,5442,0.2
+Design,Design Senior IC,2025-05,Aisha Patel,3,25,13,4,2,39.4,6164,0.5
+Design,Design Senior IC,2025-06,Aisha Patel,2,63,24,8,2,32.3,8676,0.25
+Design,Design Senior IC,2025-07,Aisha Patel,1,74,36,12,1,36.5,8293,0.08
+Design,Design Senior IC,2025-08,Aisha Patel,1,159,56,9,1,43.7,5119,0.11
+Design,Design Senior IC,2025-09,Aisha Patel,2,140,48,20,2,30.5,7681,0.1
+Design,Design Senior IC,2025-10,Aisha Patel,5,34,14,6,3,31.9,5691,0.5
+Design,Design Senior IC,2025-11,Aisha Patel,4,116,33,14,5,35.0,5729,0.36
+Design,Design Senior IC,2025-12,Aisha Patel,2,137,59,14,2,42.0,5202,0.14
+Design,Design Lead,2024-07,Marcus Reid,1,117,37,15,1,36.2,7101,0.07
+Design,Design Lead,2024-08,Marcus Reid,3,142,66,21,3,44.1,7711,0.14
+Design,Design Lead,2024-09,Marcus Reid,6,105,27,10,5,33.7,8089,0.5
+Design,Design Lead,2024-10,Marcus Reid,6,127,58,11,7,33.9,6580,0.64
+Design,Design Lead,2024-11,Marcus Reid,6,159,83,18,5,40.5,7584,0.28
+Design,Design Lead,2024-12,Marcus Reid,3,89,42,16,3,35.4,7068,0.19
+Design,Design Lead,2025-01,Marcus Reid,5,166,85,33,3,35.1,6823,0.09
+Design,Design Lead,2025-02,Marcus Reid,1,57,21,8,1,35.4,8917,0.12
+Design,Design Lead,2025-03,Marcus Reid,3,119,50,14,3,42.9,5270,0.21
+Design,Design Lead,2025-04,Marcus Reid,2,77,28,5,1,35.8,6509,0.2
+Design,Design Lead,2025-05,Marcus Reid,1,173,56,10,1,41.6,6912,0.1
+Design,Design Lead,2025-06,Marcus Reid,2,177,72,21,2,26.8,5743,0.1
+Design,Design Lead,2025-07,Marcus Reid,1,174,78,23,1,31.8,6251,0.04
+Design,Design Lead,2025-08,Marcus Reid,5,72,37,16,6,42.0,8507,0.38
+Design,Design Lead,2025-09,Marcus Reid,3,46,16,5,2,40.7,6610,0.4
+Design,Design Lead,2025-10,Marcus Reid,4,106,35,7,4,36.2,5661,0.57
+Design,Design Lead,2025-11,Marcus Reid,5,71,26,7,5,44.3,7414,0.71
+Design,Design Lead,2025-12,Marcus Reid,6,88,46,8,5,40.9,5482,0.62
+Design,Design Principal,2024-07,Maya Chen,4,89,34,8,4,45.3,7140,0.5
+Design,Design Principal,2024-08,Maya Chen,4,137,44,9,5,42.0,5993,0.56
+Design,Design Principal,2024-09,Maya Chen,2,105,42,13,2,35.5,6439,0.15
+Design,Design Principal,2024-10,Maya Chen,1,53,21,9,1,35.1,8809,0.11
+Design,Design Principal,2024-11,Maya Chen,1,64,17,3,1,34.4,5287,0.33
+Design,Design Principal,2024-12,Maya Chen,3,176,72,15,4,34.6,6602,0.27
+Design,Design Principal,2025-01,Maya Chen,3,98,29,12,2,31.6,5228,0.17
+Design,Design Principal,2025-02,Maya Chen,5,127,60,23,4,41.7,7491,0.17
+Design,Design Principal,2025-03,Maya Chen,2,124,31,14,2,30.9,8192,0.14
+Design,Design Principal,2025-04,Maya Chen,1,92,40,11,1,31.3,5609,0.09
+Design,Design Principal,2025-05,Maya Chen,5,96,43,14,4,41.1,7223,0.29
+Design,Design Principal,2025-06,Maya Chen,2,39,20,3,2,42.6,7713,0.67
+Design,Design Principal,2025-07,Maya Chen,5,127,43,19,4,40.3,8578,0.21
+Design,Design Principal,2025-08,Maya Chen,4,48,19,8,3,37.5,7879,0.38
+Design,Design Principal,2025-09,Maya Chen,5,88,34,6,3,38.6,7932,0.5
+Design,Design Principal,2025-10,Maya Chen,4,72,25,5,4,40.5,5079,0.8
+Design,Design Principal,2025-11,Maya Chen,6,129,37,9,4,33.5,8658,0.44
+Design,Design Principal,2025-12,Maya Chen,6,140,58,21,7,38.4,5810,0.33
+Marketing,Marketing Growth Lead,2024-07,Sofia Ruiz,2,122,42,19,2,33.9,4887,0.11
+Marketing,Marketing Growth Lead,2024-08,Sofia Ruiz,3,134,58,16,3,33.8,6063,0.19
+Marketing,Marketing Growth Lead,2024-09,Sofia Ruiz,6,109,43,15,5,24.8,6341,0.33
+Marketing,Marketing Growth Lead,2024-10,Sofia Ruiz,6,74,40,15,6,39.1,5952,0.4
+Marketing,Marketing Growth Lead,2024-11,Sofia Ruiz,4,96,31,11,3,27.0,4269,0.27
+Marketing,Marketing Growth Lead,2024-12,Sofia Ruiz,3,69,34,14,2,20.0,3766,0.14
+Marketing,Marketing Growth Lead,2025-01,Sofia Ruiz,3,149,75,14,3,23.4,4577,0.21
+Marketing,Marketing Growth Lead,2025-02,Sofia Ruiz,6,69,20,6,6,39.8,3674,1.0
+Marketing,Marketing Growth Lead,2025-03,Sofia Ruiz,4,35,10,4,3,35.3,4584,0.75
+Marketing,Marketing Growth Lead,2025-04,Sofia Ruiz,1,135,41,11,1,31.6,5914,0.09
+Marketing,Marketing Growth Lead,2025-05,Sofia Ruiz,5,126,69,31,5,24.5,3413,0.16
+Marketing,Marketing Growth Lead,2025-06,Sofia Ruiz,6,74,29,8,4,30.6,4114,0.5
+Marketing,Marketing Growth Lead,2025-07,Sofia Ruiz,2,147,73,29,2,30.1,5501,0.07
+Marketing,Marketing Growth Lead,2025-08,Sofia Ruiz,5,51,26,5,5,22.8,4719,1.0
+Marketing,Marketing Growth Lead,2025-09,Sofia Ruiz,2,108,29,5,1,28.5,3346,0.2
+Marketing,Marketing Growth Lead,2025-10,Sofia Ruiz,1,77,38,8,1,34.0,5283,0.12
+Marketing,Marketing Growth Lead,2025-11,Sofia Ruiz,4,109,54,10,3,33.9,4145,0.3
+Marketing,Marketing Growth Lead,2025-12,Sofia Ruiz,5,56,27,8,4,24.4,4765,0.5
+Marketing,Marketing Brand Manager,2024-07,Aisha Patel,4,142,41,7,3,26.9,3214,0.43
+Marketing,Marketing Brand Manager,2024-08,Aisha Patel,3,134,39,13,3,28.3,6467,0.23
+Marketing,Marketing Brand Manager,2024-09,Aisha Patel,6,177,91,19,4,32.0,3881,0.21
+Marketing,Marketing Brand Manager,2024-10,Aisha Patel,5,26,11,4,4,21.7,4983,1.0
+Marketing,Marketing Brand Manager,2024-11,Aisha Patel,6,118,47,11,5,30.9,4220,0.45
+Marketing,Marketing Brand Manager,2024-12,Aisha Patel,4,49,16,5,3,29.4,4349,0.6
+Marketing,Marketing Brand Manager,2025-01,Aisha Patel,6,35,9,2,2,33.6,5940,1.0
+Marketing,Marketing Brand Manager,2025-02,Aisha Patel,6,39,15,6,4,29.4,4645,0.67
+Marketing,Marketing Brand Manager,2025-03,Aisha Patel,3,55,25,5,2,24.3,4825,0.4
+Marketing,Marketing Brand Manager,2025-04,Aisha Patel,2,37,19,5,2,27.4,3471,0.4
+Marketing,Marketing Brand Manager,2025-05,Aisha Patel,3,66,29,6,3,31.6,5636,0.5
+Marketing,Marketing Brand Manager,2025-06,Aisha Patel,1,32,14,3,1,36.6,3403,0.33
+Marketing,Marketing Brand Manager,2025-07,Aisha Patel,5,107,59,10,4,26.0,3302,0.4
+Marketing,Marketing Brand Manager,2025-08,Aisha Patel,4,167,50,22,4,25.3,5822,0.18
+Marketing,Marketing Brand Manager,2025-09,Aisha Patel,6,84,31,10,4,28.4,6437,0.4
+Marketing,Marketing Brand Manager,2025-10,Aisha Patel,1,149,64,16,1,29.0,6032,0.06
+Marketing,Marketing Brand Manager,2025-11,Aisha Patel,3,169,90,24,2,32.3,4343,0.08
+Marketing,Marketing Brand Manager,2025-12,Aisha Patel,3,70,29,7,2,31.5,5306,0.29
+Marketing,Marketing Content Strategist,2024-07,Marcus Reid,2,50,23,6,1,30.9,4864,0.17
+Marketing,Marketing Content Strategist,2024-08,Marcus Reid,2,107,57,19,2,25.7,5894,0.11
+Marketing,Marketing Content Strategist,2024-09,Marcus Reid,6,86,45,15,4,25.9,6197,0.27
+Marketing,Marketing Content Strategist,2024-10,Marcus Reid,4,37,18,7,4,29.6,3092,0.57
+Marketing,Marketing Content Strategist,2024-11,Marcus Reid,4,147,51,21,3,31.4,5352,0.14
+Marketing,Marketing Content Strategist,2024-12,Marcus Reid,1,92,37,12,1,36.1,5712,0.08
+Marketing,Marketing Content Strategist,2025-01,Marcus Reid,6,54,23,10,5,24.8,4769,0.5
+Marketing,Marketing Content Strategist,2025-02,Marcus Reid,3,63,34,11,3,27.2,4975,0.27
+Marketing,Marketing Content Strategist,2025-03,Marcus Reid,1,43,21,8,1,30.5,3231,0.12
+Marketing,Marketing Content Strategist,2025-04,Marcus Reid,1,171,67,24,1,32.6,4822,0.04
+Marketing,Marketing Content Strategist,2025-05,Marcus Reid,5,121,32,9,5,25.2,5010,0.56
+Marketing,Marketing Content Strategist,2025-06,Marcus Reid,2,101,28,12,2,38.7,4204,0.17
+Marketing,Marketing Content Strategist,2025-07,Marcus Reid,2,37,16,7,2,29.7,4275,0.29
+Marketing,Marketing Content Strategist,2025-08,Marcus Reid,1,56,31,14,1,35.1,4871,0.07
+Marketing,Marketing Content Strategist,2025-09,Marcus Reid,4,165,43,19,4,25.3,3016,0.21
+Marketing,Marketing Content Strategist,2025-10,Marcus Reid,6,171,70,30,6,27.6,3545,0.2
+Marketing,Marketing Content Strategist,2025-11,Marcus Reid,6,34,18,4,4,24.3,3699,1.0
+Marketing,Marketing Content Strategist,2025-12,Marcus Reid,1,130,60,24,1,32.3,6036,0.04
+Sales,Sales AE,2024-07,Marcus Reid,4,44,22,7,4,33.5,5033,0.57
+Sales,Sales AE,2024-08,Marcus Reid,5,144,56,15,4,26.0,5190,0.27
+Sales,Sales AE,2024-09,Marcus Reid,5,37,18,5,5,25.5,4603,1.0
+Sales,Sales AE,2024-10,Marcus Reid,1,159,86,19,1,28.3,4220,0.05
+Sales,Sales AE,2024-11,Marcus Reid,1,61,16,3,1,22.1,4775,0.33
+Sales,Sales AE,2024-12,Marcus Reid,6,65,28,6,6,23.5,5380,1.0
+Sales,Sales AE,2025-01,Marcus Reid,4,173,61,11,3,26.1,6473,0.27
+Sales,Sales AE,2025-02,Marcus Reid,3,75,31,6,2,25.3,6198,0.33
+Sales,Sales AE,2025-03,Marcus Reid,1,92,29,11,1,29.3,6378,0.09
+Sales,Sales AE,2025-04,Marcus Reid,1,116,47,14,1,29.4,5242,0.07
+Sales,Sales AE,2025-05,Marcus Reid,4,99,37,6,4,20.9,5639,0.67
+Sales,Sales AE,2025-06,Marcus Reid,1,118,46,19,1,19.9,6935,0.05
+Sales,Sales AE,2025-07,Marcus Reid,5,126,61,17,5,30.2,4556,0.29
+Sales,Sales AE,2025-08,Marcus Reid,3,92,42,18,2,25.9,5819,0.11
+Sales,Sales AE,2025-09,Marcus Reid,3,103,49,14,2,28.7,4854,0.14
+Sales,Sales AE,2025-10,Marcus Reid,2,83,39,16,2,16.6,5694,0.12
+Sales,Sales AE,2025-11,Marcus Reid,5,49,15,4,4,31.0,4093,1.0
+Sales,Sales AE,2025-12,Marcus Reid,5,155,55,16,3,20.6,4113,0.19
+Sales,Sales Senior AE,2024-07,Maya Chen,3,44,18,7,2,25.4,5536,0.29
+Sales,Sales Senior AE,2024-08,Maya Chen,5,42,16,6,4,23.7,6353,0.67
+Sales,Sales Senior AE,2024-09,Maya Chen,2,97,36,8,2,22.7,4779,0.25
+Sales,Sales Senior AE,2024-10,Maya Chen,1,27,9,2,1,27.3,5036,0.5
+Sales,Sales Senior AE,2024-11,Maya Chen,3,102,45,18,4,26.1,6414,0.22
+Sales,Sales Senior AE,2024-12,Maya Chen,6,103,40,7,4,25.9,6270,0.57
+Sales,Sales Senior AE,2025-01,Maya Chen,3,88,37,12,3,17.6,4188,0.25
+Sales,Sales Senior AE,2025-02,Maya Chen,5,35,19,8,6,22.9,6468,0.75
+Sales,Sales Senior AE,2025-03,Maya Chen,5,66,29,13,4,26.9,4254,0.31
+Sales,Sales Senior AE,2025-04,Maya Chen,2,59,16,7,2,28.4,4183,0.29
+Sales,Sales Senior AE,2025-05,Maya Chen,5,54,16,6,4,31.1,4548,0.67
+Sales,Sales Senior AE,2025-06,Maya Chen,5,180,58,14,6,23.2,6351,0.43
+Sales,Sales Senior AE,2025-07,Maya Chen,6,92,30,11,6,20.4,6444,0.55
+Sales,Sales Senior AE,2025-08,Maya Chen,2,130,55,25,1,20.6,3515,0.04
+Sales,Sales Senior AE,2025-09,Maya Chen,5,151,42,11,5,25.1,4104,0.45
+Sales,Sales Senior AE,2025-10,Maya Chen,2,113,45,18,2,28.4,4935,0.11
+Sales,Sales Senior AE,2025-11,Maya Chen,1,89,33,14,1,28.1,6894,0.07
+Sales,Sales Senior AE,2025-12,Maya Chen,1,89,28,6,1,22.4,5139,0.17
+Sales,Sales SDR,2024-07,Sofia Ruiz,2,166,81,19,2,21.7,3582,0.11
+Sales,Sales SDR,2024-08,Sofia Ruiz,6,105,33,13,5,19.6,4907,0.38
+Sales,Sales SDR,2024-09,Sofia Ruiz,5,124,60,13,6,25.2,3753,0.46
+Sales,Sales SDR,2024-10,Sofia Ruiz,2,106,54,13,2,28.6,3676,0.15
+Sales,Sales SDR,2024-11,Sofia Ruiz,1,146,78,29,1,29.9,6946,0.03
+Sales,Sales SDR,2024-12,Sofia Ruiz,5,32,15,4,3,21.4,6372,0.75
+Sales,Sales SDR,2025-01,Sofia Ruiz,5,103,44,12,5,33.3,6210,0.42
+Sales,Sales SDR,2025-02,Sofia Ruiz,5,70,28,6,5,33.0,5873,0.83
+Sales,Sales SDR,2025-03,Sofia Ruiz,5,168,92,24,5,27.0,4277,0.21
+Sales,Sales SDR,2025-04,Sofia Ruiz,1,118,60,14,1,20.2,4943,0.07
+Sales,Sales SDR,2025-05,Sofia Ruiz,3,162,55,21,2,27.2,6772,0.1
+Sales,Sales SDR,2025-06,Sofia Ruiz,5,172,54,20,5,23.7,3585,0.25
+Sales,Sales SDR,2025-07,Sofia Ruiz,3,79,40,6,3,30.2,4759,0.5
+Sales,Sales SDR,2025-08,Sofia Ruiz,5,109,56,21,6,21.8,4401,0.29
+Sales,Sales SDR,2025-09,Sofia Ruiz,3,146,47,10,2,30.4,3877,0.2
+Sales,Sales SDR,2025-10,Sofia Ruiz,4,82,34,10,3,29.0,6104,0.3
+Sales,Sales SDR,2025-11,Sofia Ruiz,1,163,80,20,1,17.9,4093,0.05
+Sales,Sales SDR,2025-12,Sofia Ruiz,6,130,45,9,4,16.5,6727,0.44
+Customer Success,Customer Success CSM,2024-07,Devon Park,3,36,20,3,2,31.4,2755,0.67
+Customer Success,Customer Success CSM,2024-08,Devon Park,5,30,15,5,5,29.7,4393,1.0
+Customer Success,Customer Success CSM,2024-09,Devon Park,5,78,30,6,5,23.1,4766,0.83
+Customer Success,Customer Success CSM,2024-10,Devon Park,2,149,52,19,2,21.8,5027,0.11
+Customer Success,Customer Success CSM,2024-11,Devon Park,2,72,23,8,2,23.3,3246,0.25
+Customer Success,Customer Success CSM,2024-12,Devon Park,2,77,34,11,2,19.7,4163,0.18
+Customer Success,Customer Success CSM,2025-01,Devon Park,4,130,59,10,3,23.7,5489,0.3
+Customer Success,Customer Success CSM,2025-02,Devon Park,2,76,36,8,2,28.3,3823,0.25
+Customer Success,Customer Success CSM,2025-03,Devon Park,6,98,39,13,7,27.8,4426,0.54
+Customer Success,Customer Success CSM,2025-04,Devon Park,4,180,49,15,4,35.2,4713,0.27
+Customer Success,Customer Success CSM,2025-05,Devon Park,4,98,53,15,3,19.9,4261,0.2
+Customer Success,Customer Success CSM,2025-06,Devon Park,1,125,60,22,1,28.3,3796,0.05
+Customer Success,Customer Success CSM,2025-07,Devon Park,1,171,51,17,1,28.8,3369,0.06
+Customer Success,Customer Success CSM,2025-08,Devon Park,5,48,25,8,5,28.8,3192,0.62
+Customer Success,Customer Success CSM,2025-09,Devon Park,5,59,20,5,4,30.1,2526,0.8
+Customer Success,Customer Success CSM,2025-10,Devon Park,6,42,19,8,7,24.3,4080,0.88
+Customer Success,Customer Success CSM,2025-11,Devon Park,5,154,53,15,6,34.3,4246,0.4
+Customer Success,Customer Success CSM,2025-12,Devon Park,5,174,60,19,5,28.0,3307,0.26
+Customer Success,Customer Success Senior CSM,2024-07,Maya Chen,3,88,42,11,2,23.7,4097,0.18
+Customer Success,Customer Success Senior CSM,2024-08,Maya Chen,6,178,57,22,6,21.6,3839,0.27
+Customer Success,Customer Success Senior CSM,2024-09,Maya Chen,1,52,23,5,1,19.4,4916,0.2
+Customer Success,Customer Success Senior CSM,2024-10,Maya Chen,1,28,8,3,1,29.5,5047,0.33
+Customer Success,Customer Success Senior CSM,2024-11,Maya Chen,3,150,78,12,2,32.8,4545,0.17
+Customer Success,Customer Success Senior CSM,2024-12,Maya Chen,1,164,73,27,1,30.6,3108,0.04
+Customer Success,Customer Success Senior CSM,2025-01,Maya Chen,4,71,28,7,3,23.5,3946,0.43
+Customer Success,Customer Success Senior CSM,2025-02,Maya Chen,5,81,31,11,5,28.5,2555,0.45
+Customer Success,Customer Success Senior CSM,2025-03,Maya Chen,2,136,38,11,2,23.2,5095,0.18
+Customer Success,Customer Success Senior CSM,2025-04,Maya Chen,2,114,43,9,2,36.0,3865,0.22
+Customer Success,Customer Success Senior CSM,2025-05,Maya Chen,4,170,43,18,5,20.5,4646,0.28
+Customer Success,Customer Success Senior CSM,2025-06,Maya Chen,6,55,30,9,4,35.1,5218,0.44
+Customer Success,Customer Success Senior CSM,2025-07,Maya Chen,6,120,45,14,4,28.9,4609,0.29
+Customer Success,Customer Success Senior CSM,2025-08,Maya Chen,5,53,21,6,4,32.5,5047,0.67
+Customer Success,Customer Success Senior CSM,2025-09,Maya Chen,1,82,25,5,1,36.7,2793,0.2
+Customer Success,Customer Success Senior CSM,2025-10,Maya Chen,2,172,63,26,1,26.7,5079,0.04
+Customer Success,Customer Success Senior CSM,2025-11,Maya Chen,1,65,30,13,1,19.8,5073,0.08
+Customer Success,Customer Success Senior CSM,2025-12,Maya Chen,3,73,29,11,2,23.7,2713,0.18
+Customer Success,Customer Success Manager,2024-07,Sofia Ruiz,5,106,53,15,6,28.6,3559,0.4
+Customer Success,Customer Success Manager,2024-08,Sofia Ruiz,6,132,39,8,6,21.2,3968,0.75
+Customer Success,Customer Success Manager,2024-09,Sofia Ruiz,3,46,18,5,3,24.4,4556,0.6
+Customer Success,Customer Success Manager,2024-10,Sofia Ruiz,4,72,32,6,2,24.7,3621,0.33
+Customer Success,Customer Success Manager,2024-11,Sofia Ruiz,2,86,42,11,2,28.3,4397,0.18
+Customer Success,Customer Success Manager,2024-12,Sofia Ruiz,4,143,54,10,4,34.6,3534,0.4
+Customer Success,Customer Success Manager,2025-01,Sofia Ruiz,6,118,57,13,6,28.4,5450,0.46
+Customer Success,Customer Success Manager,2025-02,Sofia Ruiz,6,139,53,17,4,27.3,2627,0.24
+Customer Success,Customer Success Manager,2025-03,Sofia Ruiz,2,27,10,4,2,30.8,3373,0.5
+Customer Success,Customer Success Manager,2025-04,Sofia Ruiz,3,27,7,3,2,26.2,2892,0.67
+Customer Success,Customer Success Manager,2025-05,Sofia Ruiz,4,91,48,14,5,23.7,4678,0.36
+Customer Success,Customer Success Manager,2025-06,Sofia Ruiz,6,50,17,7,5,30.6,3845,0.71
+Customer Success,Customer Success Manager,2025-07,Sofia Ruiz,2,54,18,3,2,22.1,3887,0.67
+Customer Success,Customer Success Manager,2025-08,Sofia Ruiz,2,104,34,9,2,29.2,4525,0.22
+Customer Success,Customer Success Manager,2025-09,Sofia Ruiz,4,81,41,13,3,31.3,4724,0.23
+Customer Success,Customer Success Manager,2025-10,Sofia Ruiz,1,113,32,7,1,23.1,3984,0.14
+Customer Success,Customer Success Manager,2025-11,Sofia Ruiz,6,171,74,27,6,38.3,4080,0.22
+Customer Success,Customer Success Manager,2025-12,Sofia Ruiz,1,42,17,3,1,21.3,4058,0.33
+Finance,Finance Analyst,2024-07,Maya Chen,4,66,17,3,3,29.2,5092,1.0
+Finance,Finance Analyst,2024-08,Maya Chen,2,167,61,15,2,27.1,5514,0.13
+Finance,Finance Analyst,2024-09,Maya Chen,2,56,27,12,2,31.6,7734,0.17
+Finance,Finance Analyst,2024-10,Maya Chen,2,30,14,6,2,31.7,7096,0.33
+Finance,Finance Analyst,2024-11,Maya Chen,5,150,51,22,3,40.4,4145,0.14
+Finance,Finance Analyst,2024-12,Maya Chen,1,68,18,7,1,31.9,6625,0.14
+Finance,Finance Analyst,2025-01,Maya Chen,3,40,13,4,2,32.1,7885,0.5
+Finance,Finance Analyst,2025-02,Maya Chen,3,157,81,19,3,32.5,5700,0.16
+Finance,Finance Analyst,2025-03,Maya Chen,5,103,39,9,5,31.7,6434,0.56
+Finance,Finance Analyst,2025-04,Maya Chen,4,110,55,12,5,37.4,5654,0.42
+Finance,Finance Analyst,2025-05,Maya Chen,4,155,45,14,3,39.8,5266,0.21
+Finance,Finance Analyst,2025-06,Maya Chen,2,50,14,4,2,24.0,7719,0.5
+Finance,Finance Analyst,2025-07,Maya Chen,2,152,41,12,2,33.3,5599,0.17
+Finance,Finance Analyst,2025-08,Maya Chen,6,65,20,5,5,34.3,7579,1.0
+Finance,Finance Analyst,2025-09,Maya Chen,3,49,14,6,3,39.4,7084,0.5
+Finance,Finance Analyst,2025-10,Maya Chen,6,168,48,21,7,28.0,4351,0.33
+Finance,Finance Analyst,2025-11,Maya Chen,5,95,36,7,6,29.8,6450,0.86
+Finance,Finance Analyst,2025-12,Maya Chen,1,117,52,13,1,24.4,4155,0.08
+Finance,Finance Senior Analyst,2024-07,Aisha Patel,6,141,72,14,5,31.6,5870,0.36
+Finance,Finance Senior Analyst,2024-08,Aisha Patel,2,155,56,13,2,27.6,4242,0.15
+Finance,Finance Senior Analyst,2024-09,Aisha Patel,2,122,45,11,2,36.8,5159,0.18
+Finance,Finance Senior Analyst,2024-10,Aisha Patel,4,66,27,11,4,25.0,7865,0.36
+Finance,Finance Senior Analyst,2024-11,Aisha Patel,6,133,73,21,4,33.5,6817,0.19
+Finance,Finance Senior Analyst,2024-12,Aisha Patel,5,29,14,6,5,34.4,6031,0.83
+Finance,Finance Senior Analyst,2025-01,Aisha Patel,4,156,80,13,4,32.6,7002,0.31
+Finance,Finance Senior Analyst,2025-02,Aisha Patel,4,101,31,8,4,26.0,5681,0.5
+Finance,Finance Senior Analyst,2025-03,Aisha Patel,3,163,78,16,2,38.0,6347,0.12
+Finance,Finance Senior Analyst,2025-04,Aisha Patel,4,58,20,3,3,25.5,5230,1.0
+Finance,Finance Senior Analyst,2025-05,Aisha Patel,6,138,74,28,5,34.4,4369,0.18
+Finance,Finance Senior Analyst,2025-06,Aisha Patel,2,147,56,18,2,38.4,6087,0.11
+Finance,Finance Senior Analyst,2025-07,Aisha Patel,3,85,26,7,2,27.2,7298,0.29
+Finance,Finance Senior Analyst,2025-08,Aisha Patel,3,121,31,5,3,26.5,7677,0.6
+Finance,Finance Senior Analyst,2025-09,Aisha Patel,3,178,56,12,3,34.9,4620,0.25
+Finance,Finance Senior Analyst,2025-10,Aisha Patel,3,73,21,6,3,42.6,7307,0.5
+Finance,Finance Senior Analyst,2025-11,Aisha Patel,4,113,31,6,3,35.1,4031,0.5
+Finance,Finance Senior Analyst,2025-12,Aisha Patel,5,25,13,5,3,24.4,4265,0.6
+Finance,Finance Controller,2024-07,Sofia Ruiz,4,158,51,16,3,40.8,4112,0.19
+Finance,Finance Controller,2024-08,Sofia Ruiz,4,163,48,19,3,32.3,7957,0.16
+Finance,Finance Controller,2024-09,Sofia Ruiz,1,128,58,13,1,30.0,5059,0.08
+Finance,Finance Controller,2024-10,Sofia Ruiz,3,91,31,7,2,22.8,5307,0.29
+Finance,Finance Controller,2024-11,Sofia Ruiz,2,118,34,12,2,29.1,6283,0.17
+Finance,Finance Controller,2024-12,Sofia Ruiz,1,42,20,9,1,37.9,4189,0.11
+Finance,Finance Controller,2025-01,Sofia Ruiz,6,117,56,14,4,32.0,7885,0.29
+Finance,Finance Controller,2025-02,Sofia Ruiz,2,86,25,8,2,36.8,4758,0.25
+Finance,Finance Controller,2025-03,Sofia Ruiz,3,164,81,18,3,31.9,6137,0.17
+Finance,Finance Controller,2025-04,Sofia Ruiz,6,109,59,16,6,35.3,6728,0.38
+Finance,Finance Controller,2025-05,Sofia Ruiz,3,61,25,4,3,26.4,7005,0.75
+Finance,Finance Controller,2025-06,Sofia Ruiz,5,155,81,30,3,35.5,4387,0.1
+Finance,Finance Controller,2025-07,Sofia Ruiz,2,143,71,26,2,31.2,4762,0.08
+Finance,Finance Controller,2025-08,Sofia Ruiz,6,34,15,4,4,41.4,6350,1.0
+Finance,Finance Controller,2025-09,Sofia Ruiz,1,56,23,7,1,25.4,7402,0.14
+Finance,Finance Controller,2025-10,Sofia Ruiz,4,143,64,23,4,35.1,6341,0.17
+Finance,Finance Controller,2025-11,Sofia Ruiz,5,40,13,4,4,33.4,5595,1.0
+Finance,Finance Controller,2025-12,Sofia Ruiz,4,53,25,10,4,32.6,4887,0.4
+People Ops,People Ops Recruiter,2024-07,Maya Chen,5,94,48,18,5,24.3,5349,0.28
+People Ops,People Ops Recruiter,2024-08,Maya Chen,1,83,30,13,1,20.2,3579,0.08
+People Ops,People Ops Recruiter,2024-09,Maya Chen,2,77,38,10,2,29.3,3561,0.2
+People Ops,People Ops Recruiter,2024-10,Maya Chen,3,55,29,12,3,29.2,3152,0.25
+People Ops,People Ops Recruiter,2024-11,Maya Chen,5,152,61,10,5,34.9,5149,0.5
+People Ops,People Ops Recruiter,2024-12,Maya Chen,2,156,83,36,2,31.0,3160,0.06
+People Ops,People Ops Recruiter,2025-01,Maya Chen,5,90,26,5,4,31.4,3062,0.8
+People Ops,People Ops Recruiter,2025-02,Maya Chen,2,167,53,11,2,25.2,4646,0.18
+People Ops,People Ops Recruiter,2025-03,Maya Chen,2,167,49,21,2,31.7,4615,0.1
+People Ops,People Ops Recruiter,2025-04,Maya Chen,4,121,55,9,5,28.6,4918,0.56
+People Ops,People Ops Recruiter,2025-05,Maya Chen,1,83,21,6,1,28.9,5491,0.17
+People Ops,People Ops Recruiter,2025-06,Maya Chen,2,46,17,7,1,23.0,4583,0.14
+People Ops,People Ops Recruiter,2025-07,Maya Chen,4,109,44,15,5,26.5,5978,0.33
+People Ops,People Ops Recruiter,2025-08,Maya Chen,1,62,24,4,1,32.5,3787,0.25
+People Ops,People Ops Recruiter,2025-09,Maya Chen,2,105,45,12,1,21.8,3241,0.08
+People Ops,People Ops Recruiter,2025-10,Maya Chen,6,83,35,13,7,24.2,3047,0.54
+People Ops,People Ops Recruiter,2025-11,Maya Chen,2,133,68,13,2,16.8,4065,0.15
+People Ops,People Ops Recruiter,2025-12,Maya Chen,1,137,34,10,1,24.6,3584,0.1
+People Ops,People Ops Senior HRBP,2024-07,Aisha Patel,1,87,42,18,1,20.0,5199,0.06
+People Ops,People Ops Senior HRBP,2024-08,Aisha Patel,6,102,38,16,7,25.1,3266,0.44
+People Ops,People Ops Senior HRBP,2024-09,Aisha Patel,4,96,46,7,3,25.1,5360,0.43
+People Ops,People Ops Senior HRBP,2024-10,Aisha Patel,4,33,17,7,4,30.1,4054,0.57
+People Ops,People Ops Senior HRBP,2024-11,Aisha Patel,1,102,32,13,1,32.7,5729,0.08
+People Ops,People Ops Senior HRBP,2024-12,Aisha Patel,6,79,42,13,5,24.2,3685,0.38
+People Ops,People Ops Senior HRBP,2025-01,Aisha Patel,1,70,23,4,1,32.3,5097,0.25
+People Ops,People Ops Senior HRBP,2025-02,Aisha Patel,4,53,21,4,4,24.7,4286,1.0
+People Ops,People Ops Senior HRBP,2025-03,Aisha Patel,5,143,60,25,4,35.2,5768,0.16
+People Ops,People Ops Senior HRBP,2025-04,Aisha Patel,5,25,13,6,4,28.2,4994,0.67
+People Ops,People Ops Senior HRBP,2025-05,Aisha Patel,1,95,50,13,1,20.4,3945,0.08
+People Ops,People Ops Senior HRBP,2025-06,Aisha Patel,6,132,49,11,5,30.9,4190,0.45
+People Ops,People Ops Senior HRBP,2025-07,Aisha Patel,4,35,15,4,4,25.5,4494,1.0
+People Ops,People Ops Senior HRBP,2025-08,Aisha Patel,3,73,29,8,3,29.1,4746,0.38
+People Ops,People Ops Senior HRBP,2025-09,Aisha Patel,4,149,75,15,4,26.7,4080,0.27
+People Ops,People Ops Senior HRBP,2025-10,Aisha Patel,2,140,46,14,2,25.3,5014,0.14
+People Ops,People Ops Senior HRBP,2025-11,Aisha Patel,2,178,91,18,2,20.0,5808,0.11
+People Ops,People Ops Senior HRBP,2025-12,Aisha Patel,6,157,64,17,7,32.8,5066,0.41
+People Ops,People Ops Coordinator,2024-07,Maya Chen,4,164,52,10,4,31.5,3902,0.4
+People Ops,People Ops Coordinator,2024-08,Maya Chen,2,154,78,17,2,34.4,3418,0.12
+People Ops,People Ops Coordinator,2024-09,Maya Chen,3,111,45,18,2,25.1,3763,0.11
+People Ops,People Ops Coordinator,2024-10,Maya Chen,5,156,45,12,6,18.7,5354,0.5
+People Ops,People Ops Coordinator,2024-11,Maya Chen,2,111,39,9,2,23.3,3770,0.22
+People Ops,People Ops Coordinator,2024-12,Maya Chen,5,39,11,4,4,32.7,4726,1.0
+People Ops,People Ops Coordinator,2025-01,Maya Chen,3,147,46,9,3,23.0,3105,0.33
+People Ops,People Ops Coordinator,2025-02,Maya Chen,5,108,30,12,5,34.1,5512,0.42
+People Ops,People Ops Coordinator,2025-03,Maya Chen,4,130,53,18,5,19.2,3080,0.28
+People Ops,People Ops Coordinator,2025-04,Maya Chen,1,117,45,16,1,34.5,5835,0.06
+People Ops,People Ops Coordinator,2025-05,Maya Chen,2,149,77,13,2,24.7,4664,0.15
+People Ops,People Ops Coordinator,2025-06,Maya Chen,4,40,12,2,2,31.5,3779,1.0
+People Ops,People Ops Coordinator,2025-07,Maya Chen,2,58,27,10,2,32.8,4617,0.2
+People Ops,People Ops Coordinator,2025-08,Maya Chen,6,135,64,29,7,28.1,3225,0.24
+People Ops,People Ops Coordinator,2025-09,Maya Chen,6,80,36,14,7,25.2,4353,0.5
+People Ops,People Ops Coordinator,2025-10,Maya Chen,4,119,38,9,4,21.6,3357,0.44
+People Ops,People Ops Coordinator,2025-11,Maya Chen,1,32,16,6,1,17.2,4564,0.17
+People Ops,People Ops Coordinator,2025-12,Maya Chen,2,144,55,23,2,31.3,4790,0.09
