@@ -185,7 +185,8 @@ If you add a new metric or chart, add tests for the math, not the rendering.
 - Sister project (architectural template): `~/Projects/aibc/market-edge/`
 - Live Market Edge demo: https://market-edge.streamlit.app
 - Anthropic SDK pattern: `~/Projects/aibc/market-edge/src/explain.py`
+- Portfolio listing: `~/Projects/aibc/aibotcoder-deploy/portfolio.html` — Talent Pulse card under "Data Science Projects" with Live Demo + View on GitHub buttons. Card image at `static/images/talent-pulse.png`.
 
 ---
 
-*Last updated: 2026-05-14 — initial CLAUDE.md after full rewrite from the original 50-line single-page seaborn dashboard.*
+*Last updated: 2026-05-15 — added portfolio integration reference after wiring the Live Demo button on aibotcoder.com/portfolio.html.*
