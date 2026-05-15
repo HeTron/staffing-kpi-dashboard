@@ -34,7 +34,7 @@ def funnel_chart(stages: dict[str, int]) -> go.Figure:
             connector=dict(line=dict(color=BORDER, width=1)),
         )
     )
-    fig.update_layout(title="Hiring Funnel", height=380)
+    fig.update_layout(height=380, margin=dict(t=20))
     return fig
 
 
@@ -80,7 +80,7 @@ def sankey_funnel(df: pd.DataFrame) -> go.Figure:
             ),
         )
     )
-    fig.update_layout(title="Pipeline Sankey", height=400)
+    fig.update_layout(height=400, margin=dict(t=20))
     return fig
 
 
@@ -101,7 +101,7 @@ def dept_comparison_bar(df: pd.DataFrame, metric: str, title: str) -> go.Figure:
             textposition="outside",
         )
     )
-    fig.update_layout(title=title, height=380, xaxis_title=metric)
+    fig.update_layout(height=380, xaxis_title=metric, margin=dict(t=20))
     return fig
 
 
@@ -119,10 +119,10 @@ def metric_trend(df_pivot: pd.DataFrame, title: str, y_label: str) -> go.Figure:
             )
         )
     fig.update_layout(
-        title=title,
         yaxis_title=y_label,
-        height=420,
-        legend=dict(orientation="h", yanchor="bottom", y=1.02),
+        height=440,
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, x=0, xanchor="left"),
+        margin=dict(t=80),
     )
     return fig
 
@@ -153,11 +153,10 @@ def heatmap_dept_role(df: pd.DataFrame, metric: str) -> go.Figure:
         )
     )
     fig.update_layout(
-        title=f"{metric} by Role × Month",
         height=max(300, len(pivot) * 40 + 100),
         xaxis_title="Month",
         yaxis_title="Role",
-        margin=dict(l=200),
+        margin=dict(l=200, t=20),
     )
     return fig
 
@@ -210,10 +209,10 @@ def forecast_chart(
         )
 
     fig.update_layout(
-        title=title,
         yaxis_title=y_label,
-        height=400,
-        legend=dict(orientation="h", yanchor="bottom", y=1.02),
+        height=420,
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, x=0, xanchor="left"),
+        margin=dict(t=80),
     )
     return fig
 
@@ -249,9 +248,9 @@ def source_breakdown_bar(source_df: pd.DataFrame) -> go.Figure:
 
     fig.update_layout(
         barmode="stack",
-        title="Applicants by Source",
         xaxis_title="Applicants",
-        height=400,
-        legend=dict(orientation="h", yanchor="bottom", y=1.02),
+        height=420,
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, x=0, xanchor="left"),
+        margin=dict(t=80),
     )
     return fig
