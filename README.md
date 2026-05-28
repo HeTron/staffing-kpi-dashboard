@@ -12,6 +12,8 @@
 
 **Live app: [talent-pulse.streamlit.app](https://talent-pulse.streamlit.app)**
 
+[![Talent Pulse — Overview](docs/screenshots/overview.png)](https://talent-pulse.streamlit.app)
+
 ---
 
 ## Features
